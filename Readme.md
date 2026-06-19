@@ -1,12 +1,3 @@
-Name – Kapil Dev 
-Intern ID – APCSIP/2026/450    
-College – National Forensic Science University (NFSU-Goa)
-Address – Village Muhammad pur Post Dholna District Kasganj (UP) – 207124
-Mobile Number – 886907817
-Email – itskapildev936840@gmail.com
-
-
-
 
                                         VEDA v3.0 
 ( Volatile Evidence Decision Assistant  Police Forensic Acquisition Tool )
